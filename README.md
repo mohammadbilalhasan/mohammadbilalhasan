@@ -155,9 +155,9 @@ payroll-automation-pipeline/
 ### 📈 GitHub Telemetry & System Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadbilalhasan&show_icons=true&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=94A3B8&icon_color=00B4D8" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadbilalhasan&theme=tokyonight&hide_border=true&stroke=00B4D8&background=0F172A" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbilalhasan&layout=compact&theme=tokyonight&hide_border=true&title_color=00B4D8&text_color=94A3B8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadbilalhasan&theme=tokyonight" alt="Profile Details" />
 </div>
 
 ---
